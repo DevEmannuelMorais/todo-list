@@ -17,6 +17,7 @@ API para gerenciar tarefas (CRUD) que faz parte [desse desafio](https://github.c
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [SpringDoc OpenAPI 3](https://springdoc.org/v2/#spring-webflux-support)
 - [PostgreSQL](https://www.postgresql.org/download/)
+- [Docker](https://docs.docker.com/desktop/install/windows-install/)
 
 ## Práticas adotadas
 
